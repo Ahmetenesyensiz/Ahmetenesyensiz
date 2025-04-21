@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmet Enes Yensiz</h1>
-<p align="center">Computer Engineering Student | Backend Developer | Tech Enthusiast</p>
+<p align="center">Computer Engineering Student | Backend Developer | Spring Boot</p>
 
 ---
 
@@ -54,7 +54,7 @@ Email: ahmetenesyensiz@gmail.com
 
 ### Fun Fact
 
-When I’m not coding, I’m probably watching a Galatasaray match, experimenting with new tech, or planning my next academic move (Hollanda seni beklesin!).
+When I’m not coding, I’m probably watching a Galatasaray match, experimenting with new tech, or planning my next academic move.
 
 ---
 
