@@ -25,23 +25,23 @@ I’m on a journey to become a full-stack developer with a solid backend foundat
 
 ### Featured Projects
 
-- [**Freelance Project Management System**](https://github.com/Ahmetenesyensiz/freelance-project-management)  
-  A full-stack project tracking platform for freelancers – built with Spring Boot and MongoDB.
-
 - [**Sentiment Analysis Tool**](https://github.com/Ahmetenesyensiz/SentimentalAnalysis)  
   Python-based tool that analyzes user sentiment from text data using NLP techniques.
 
-- **WhatsApp Chatbot** (Private Repo)  
-  Developed during my internship to automate data flow between users and the company using Gupshup API and WhatsApp Business Platform.
+- **WhatsApp Chatbot** (Internship Project)  
+  Built during my internship to automate data collection and output using the WhatsApp Business Platform and Gupshup API.
+
+- **Freelance Project Management System** *(In Progress)*  
+  A full-stack platform for managing freelance projects. Currently building the backend with Spring Boot and MongoDB.
 
 ---
 
 ### What I’m Currently Learning
 
-- Spring Boot in-depth
-- React for frontend integration
-- Cloud & Deployment practices
-- Advanced Git and CI/CD
+- Spring Boot (Advanced level)
+- React for frontend development
+- Software architecture & database design
+- Preparing for postgraduate studies abroad
 
 ---
 
@@ -54,7 +54,7 @@ Email: ahmetenesyensiz@gmail.com
 
 ### Fun Fact
 
-When I’m not coding, I’m probably watching a Galatasaray match, experimenting with new tech, or planning my next step towards studying abroad (hello Netherlands!).
+When I’m not coding, I’m probably watching a Galatasaray match, experimenting with new tech, or planning my next academic move (Hollanda seni beklesin!).
 
 ---
 
